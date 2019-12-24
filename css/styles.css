@@ -1,0 +1,91 @@
+li.regle{
+	display: inline-block;
+	background-color: red;
+}
+
+
+li.actu{
+	display: inline-block;
+	background-color: red;
+	text-decoration: none;
+}
+li.menu-nav{
+	display: inline-block;
+	background-color: red;
+	text-decoration: none;
+}
+li.btna{
+	display: inline-block;
+	background-color: red;
+	text-decoration: none;
+}
+li.maj{
+	display: inline-block;
+	background-color: red;
+}
+nav.menu-nav ul li.btna:hover a{
+	color: red;
+	background-color: white;
+}
+
+
+h3.site{
+	color: black;
+	padding: bold;
+}
+
+body.Acceuil{
+	background: url("http://www.pop-up-urbain.com/wp-content/uploads/2017/05/Senate_District_ROTS.png");
+}
+
+a.rejoindre{
+	color: #BD1876;
+	font-weight: bold;
+}
+
+h1.bienvenue{
+	font-size: 5.3em;
+	padding: 15px;
+}
+
+h1.titre{
+	color: #06FB2E;
+}
+
+body.page2{
+	background: url("http://www.pop-up-urbain.com/wp-content/uploads/2017/05/Voies-a%C3%A9riennes-circulair.png");
+}
+
+h1.Acceuil{
+	color: black;
+}
+
+body.news{
+	background: url("http://www.pop-up-urbain.com/wp-content/uploads/2017/05/Senate_District_ROTS.png");
+}
+
+p.histoire{
+	color: black;
+}
+body.regles{
+	background: url("http://www.pop-up-urbain.com/wp-content/uploads/2017/05/Senate_District_ROTS.png");
+}
+
+h2.salont{
+	color: orange;
+}
+
+p.Vocaux{
+	color: black;
+	font-weight: bold;
+}
+
+p.giveaways{
+	color: black;
+	font-weight: bold;
+}
+
+p.respect{
+	color: black;
+	font-weight: bold;
+}
